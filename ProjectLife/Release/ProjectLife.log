@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProjectLife.vcxproj -> C:\Users\Instantae\Desktop\dev\ProjectLife\Release\ProjectLife.exe
+  ProjectLife.vcxproj -> C:\Users\Instantae\Desktop\dev\ProjectLife\Release\ProjectLife.pdb (Full PDB)
